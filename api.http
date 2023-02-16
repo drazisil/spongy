@@ -1,0 +1,9 @@
+### For use with humao.rest-client
+
+POST http://127.0.0.1:3000/
+content-type: application/json
+
+{
+    "name": "sample",
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
